@@ -1,34 +1,35 @@
 # PythonWordSearch
 Python based word search, with tkinter GUI.
 
-##Requirements
+## Requirements
 
-Python 3
+Python 3<br/>
 tkinter (`pip install tkinter`)
 
-##Running
+## Running
 
 ```python3 wordSearch.py```
 
-##Modifications
-###Board Size
+## Modifications
+
+### Board Size
 
 Change the `size` varible in code
 
-###Number of Words
+### Number of Words
 
 Change the `numWords` varible in code
 
-###Change Word List
+### Change Word List
 
 Change the `wordList` variable by adding/subtracting additional words or replacing completely
 
-##Instructions
+## Instructions
 
 Click on the word that you located on the board, starting with the first letter in order to the last. Click `Check Word` on the Word List board to verify or clear a selection.
 
-##Examples
-
+## Examples
+Green highlighted words are words that were successfully found, yellow is the currently selected location
 ![image](https://github.com/SpartanApple/PythonWordSearch/blob/master/ImagesReadme/BoardA.PNG) ![image](https://github.com/SpartanApple/PythonWordSearch/blob/master/ImagesReadme/WordListA.PNG)
 
 ![image](https://github.com/SpartanApple/PythonWordSearch/blob/master/ImagesReadme/BoardB.PNG) ![image](https://github.com/SpartanApple/PythonWordSearch/blob/master/ImagesReadme/WordListB.PNG)
