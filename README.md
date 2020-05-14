@@ -4,7 +4,7 @@ Python based word search, with tkinter GUI.
 ## Requirements
 
 Python 3<br/>
-tkinter (`pip install tkinter`)
+tkinter
 
 ## Running
 
